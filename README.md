@@ -12,3 +12,16 @@ A modern blog website using Next.js and Tailwind CSS
 1. Clone repository
 2. `npm install`
 3. `npm run dev`
+
+---
+
+## About
+Modern blog website using Next.js - Subu Theme
+
+---
+
+## Technologies Used
+- Next.js 14
+- Tailwind CSS
+- shadcn/ui
+- Vercel Hosting
